@@ -22,6 +22,10 @@ A bot built from the past, carrying the history of what came before and improvin
 
 Developed and maintained by **SAT Limited**
 
+
+[![Generate Pair Code](https://img.shields.io/badge/Generate%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge)](https://legacy-md-bot.onrender.com)
+
+
 ---
 
 ## 📖 About
