@@ -6,9 +6,10 @@ A WhatsApp Bot Powered by SAT Limited
   <b>Powerful. Flexible. Built for WhatsApp.</b>
 </p><p align="center">
   A WhatsApp automation bot developed and maintained by the SAT Limited Team.
-</p>---
+</p>
+---
 
-📌 About Legacy MD
+# 📌 About Legacy MD
 
 Legacy MD is a WhatsApp automation bot designed to make WhatsApp interactions easier through commands, automated responses, and other useful features.
 
@@ -16,7 +17,7 @@ The project is part of the SAT Limited ecosystem and draws inspiration from the 
 
 Legacy MD is developed under the SAT Limited brand, with its own identity and configuration.
 
-✨ Features
+# ✨ Features
 
 Depending on the version and configuration, Legacy MD may support features such as:
 
@@ -33,7 +34,7 @@ The exact features available depend on the version of the bot you deploy.
 
 ---
 
-🧰 Requirements
+# 🧰 Requirements
 
 Before setting up Legacy MD, make sure you have the following:
 
@@ -48,7 +49,7 @@ You may also need Git, Node.js, and npm if you are setting up the bot manually. 
 
 ---
 
-🔑 Getting Your WhatsApp Pair Code
+# 🔑 Getting Your WhatsApp Pair Code
 
 A pair code is used to link the WhatsApp account you want the bot to operate through.
 
@@ -69,7 +70,7 @@ Never share your pair code, WhatsApp verification codes, or session credentials 
 
 ---
 
-☁️ Hosting Your Bot
+# ☁️ Hosting Your Bot
 
 ⚠️ Getting a Pair Code Does Not Mean Your Bot Is Running
 
@@ -81,7 +82,7 @@ The pairing-code website and the bot's hosting environment may be separate servi
 
 After successfully linking your WhatsApp account, you must deploy the bot to a compatible hosting platform.
 
-Deployment process
+# Deployment process
 
 1. Obtain your WhatsApp pair code.
 2. Link your WhatsApp account successfully.
@@ -104,7 +105,7 @@ You can investigate platforms such as:
 - Railway — a deployment platform with support for application services.
 - A VPS — a virtual private server that gives you more control over the running environment.
 
-Official websites:
+# Official websites:
 
 - Render: https://render.com/
 - Railway: https://railway.com/
@@ -113,7 +114,7 @@ Before choosing a platform, check its current pricing, free-tier restrictions, p
 
 Important: Not every hosting plan can keep a WhatsApp bot running continuously. Choose a plan that supports the bot's requirements.
 
-🔄 What happens if the hosting service stops?
+# 🔄 What happens if the hosting service stops?
 
 If your hosting service stops the application, restarts it unexpectedly, or loses the bot's saved session, Legacy MD may disconnect from WhatsApp.
 
@@ -123,7 +124,7 @@ Configure persistent storage or another appropriate session-persistence mechanis
 
 ---
 
-⚙️ Configuration
+# ⚙️ Configuration
 
 Legacy MD's settings depend on the version of the source code you are using.
 
@@ -143,7 +144,7 @@ Never commit private credentials, authentication tokens, pairing codes, or Whats
 
 ---
 
-💻 Installation
+# 💻 Installation
 
 For developers setting up the project manually:
 
@@ -159,7 +160,9 @@ cd Legacy-MD
 
 If the project uses npm and includes a valid "package.json", run:
 
+```bash
 npm install
+```
 
 4. Configure the application
 
@@ -175,7 +178,7 @@ Note: These are general Node.js setup instructions. Verify the repository's actu
 
 ---
 
-🛠️ Troubleshooting
+# 🛠️ Troubleshooting
 
 The pair code is not working
 
@@ -206,7 +209,7 @@ Obtaining the pair code and running the bot are separate operations. Make sure t
 
 ---
 
-🔐 Security and Responsible Use
+# 🔐 Security and Responsible Use
 
 - Keep your WhatsApp session credentials private.
 - Never publish your pair code or authentication tokens.
@@ -220,7 +223,7 @@ You are responsible for securing your deployment and protecting the WhatsApp acc
 
 ---
 
-👨‍💻 Development and Credits
+# 👨‍💻 Development and Credits
 
 Project: Legacy MD
 Organisation: SAT Limited
@@ -233,7 +236,7 @@ Projects such as Knight Bot Mini and Lunr Mini are acknowledged as sources of in
 
 ---
 
-🤝 Contributions
+# 🤝 Contributions
 
 Contributions, bug reports, and suggestions are welcome.
 
@@ -246,7 +249,7 @@ When contributing:
 
 ---
 
-📞 Contact
+# 📞 Contact
 
 For project-related enquiries, contact:
 
@@ -258,7 +261,7 @@ YouTube: "@SimbarasheMC" (https://www.youtube.com/@SimbarasheMC)
 
 ---
 
-📜 Disclaimer
+# 📜 Disclaimer
 
 Legacy MD is an independent WhatsApp automation project. Its use must comply with applicable WhatsApp policies and laws.
 
