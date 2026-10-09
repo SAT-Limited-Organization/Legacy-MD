@@ -1,4 +1,20 @@
-## 🤖 Legacy MD
+<div align="center">
+
+## Legacy-MD
+
+[![Made with Baileys](https://img.shields.io/badge/Made%20with-Baileys-00bcd4?style=for-the-badge)](https://github.com/WhiskeySockets/Baileys)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Legacy-MD;Multi+Device+Whatsapp+Bot;Coded+By+Simbarashe+Tembo+.A." alt="Typing SVG" />
+  </a> 
+</div> 
+
+<img src="./utils/bot_image.jpg">
+
+</div>
 
 A WhatsApp Bot Powered by SAT Limited
 
@@ -67,6 +83,10 @@ Follow these general steps:
 Important: The exact pairing process depends on the pairing service and the version of Legacy MD you are using.
 
 Never share your pair code, WhatsApp verification codes, or session credentials with anyone.
+
+
+[![Generate Pair Code](https://img.shields.io/badge/Generate%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge)](https://legacy-md-bot.onrender.com)
+
 
 ---
 
@@ -150,11 +170,15 @@ For developers setting up the project manually:
 
 1. Clone the repository
 
+```bash
 git clone https://github.com/sat-limited-org/Legacy-MD.git
+```
 
 2. Enter the project directory
 
+```bash
 cd Legacy-MD
+```
 
 3. Install dependencies
 
@@ -172,7 +196,9 @@ Set the required environment variables and review the configuration files.
 
 Use the start command defined in the project's "package.json". For example, if the project defines an npm start script:
 
+```bash
 npm start
+```
 
 Note: These are general Node.js setup instructions. Verify the repository's actual directory structure, dependencies, entry point, and start script before using them. The pairing process and application startup may require additional steps.
 
@@ -257,7 +283,8 @@ SAT Limited
 
 Email: sat.limited.2026@gmail.com
 
-YouTube: "@SimbarasheMC" (https://www.youtube.com/@SimbarasheMC)
+YouTube: "@SimbarasheMC" 
+[![SAT Limited](https://img.shields.io/badge/SAT- Limited%2B-339933?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
 ---
 
