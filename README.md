@@ -300,20 +300,22 @@ Email: sat.limited.2026@gmail.com
 
 YouTube: "@SimbarasheMC" 
 
-[![SAT Limited](https://img.shields.io/badge/YT%20SAT-Limited%2B-339933?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@satlimited?si=4rkXgaFizd1LvHWE)
+[![SAT Limited](https://img.shields.io/badge/YT%20SAT-Limited%red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@satlimited?si=4rkXgaFizd1LvHWE)
 
 
 
 ### Join Us
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+  <a href="https://whatsapp.com/channel/0029Vb85zS99MF8ulfaVKD08">
     <img src="https://img.shields.io/badge/Join%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel"/>
   </a>
 </div>
 
 <div>
-<a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+
+<div align="center">
+<a href="https://chat.whatsapp.com/FaF8Z6rmDRXAqJCnkLIwaH">
     <img src="https://img.shields.io/badge/Join%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Group"/>
   </a>
 </div>
