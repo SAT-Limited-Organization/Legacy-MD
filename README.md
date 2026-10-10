@@ -134,7 +134,9 @@ You can investigate platforms such as:
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="- Katabump"/>
 </a>
+</div>
 
+<div align="center">
 <a href="https://render.com/" target="_blank">
   <img src="https://img.shields.io/badge/render-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="- Render"/>
 </a>
@@ -298,7 +300,7 @@ Email: sat.limited.2026@gmail.com
 
 YouTube: "@SimbarasheMC" 
 
-[![SAT Limited](https://img.shields.io/badge/YT-SAT-Limited%2B-339933?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@satlimited?si=4rkXgaFizd1LvHWE)
+[![SAT Limited](https://img.shields.io/badge/YT%20SAT-Limited%2B-339933?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@satlimited?si=4rkXgaFizd1LvHWE)
 
 
 
@@ -306,13 +308,13 @@ YouTube: "@SimbarasheMC"
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel"/>
+    <img src="https://img.shields.io/badge/Join%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel"/>
   </a>
 </div>
 
 <div>
 <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Group"/>
+    <img src="https://img.shields.io/badge/Join%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Group"/>
   </a>
 </div>
 ---
