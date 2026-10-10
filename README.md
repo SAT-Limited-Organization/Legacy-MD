@@ -127,8 +127,18 @@ You can investigate platforms such as:
 
 # Official websites:
 
-- Render: https://render.com/
-- Railway: https://railway.com/
+ Railway: https://railway.com/
+
+<div align="center">
+<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="- Katabump"/>
+</a>
+
+<a href="https://render.com/" target="_blank">
+  <img src="https://img.shields.io/badge/render-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="- Render"/>
+</a>
+</div>
+
 
 Before choosing a platform, check its current pricing, free-tier restrictions, persistent-storage support, and policies concerning long-running applications.
 
@@ -284,7 +294,8 @@ SAT Limited
 Email: sat.limited.2026@gmail.com
 
 YouTube: "@SimbarasheMC" 
-[![SAT Limited](https://img.shields.io/badge/SAT- Limited%2B-339933?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+
+[![SAT Limited](https://img.shields.io/badge/SAT-Limited%2B-339933?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
 ---
 
