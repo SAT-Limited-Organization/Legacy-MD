@@ -85,9 +85,7 @@ Important: The exact pairing process depends on the pairing service and the vers
 
 Never share your pair code, WhatsApp verification codes, or session credentials with anyone.
 
-<div align="center">
 [![Generate Pair Code](https://img.shields.io/badge/Generate%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge)](https://legacy-md-bot.onrender.com)
-</div>
 
 ---
 
@@ -129,8 +127,6 @@ You can investigate platforms such as:
 # Official websites:
 
 [![Railway](https://img.shields.io/badge/Railway%-339933?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/)
-
- : 
 
 <div align="center">
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
