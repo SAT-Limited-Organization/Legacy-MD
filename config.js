@@ -4,14 +4,14 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['91xxxxxxxxxxx','260967993714','260968665706','260761780398'], // Add your number without + or spaces (e.g., 919876543210)
+    ownerNumber: ['91xxxxxxxxxxx','260967993714','260968665706','260761780398','260772697513'], // Add your number without + or spaces (e.g., 919876543210)
     ownerName: ['Legacy MD', 'SAT Limited'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
     botName: 'Legacy MD',
     prefix: '.',
     owner: 'SAT Limited',
-    bot_version: '2.0.0',
+    bot_version: '3.0.0',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
     newsletterJid:
@@ -87,7 +87,7 @@ module.exports = {
     social: {
       github: 'https://github.com/sat-limited-org',
       instagram: 'https://instagram.com/yourusername',
-      youtube: 'http://youtube.com/@SimbarasheMC'
+      youtube: 'https://www.youtube.com/@SATLimited'
     }
 };
   
