@@ -23,6 +23,7 @@ A WhatsApp Bot Powered by SAT Limited
 </p><p align="center">
   A WhatsApp automation bot developed and maintained by the SAT Limited Team.
 </p>
+
 ---
 
 # 📌 About Legacy MD
@@ -270,6 +271,8 @@ Legacy MD is part of the SAT Limited development ecosystem.
 
 Projects such as Knight Bot Mini and Lunr Mini are acknowledged as sources of inspiration within the bot-development journey. Any specific code reuse, licensing obligations, or third-party attributions should be documented according to the actual source code and the original projects' licences.
 
+
+
 ---
 
 # 🤝 Contributions
@@ -295,8 +298,21 @@ Email: sat.limited.2026@gmail.com
 
 YouTube: "@SimbarasheMC" 
 
-[![SAT Limited](https://img.shields.io/badge/SAT-Limited%2B-339933?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![SAT Limited](https://img.shields.io/badge/YT-SAT-Limited%2B-339933?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
+
+
+### Join Us
+
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel"/>
+  </a>
+
+<a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Group"/>
+  </a>
+</div>
 ---
 
 # 📜 Disclaimer
