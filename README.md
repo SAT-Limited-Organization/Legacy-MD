@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Legacy-MD;Multi+Device+Whatsapp+Bot;Coded+By+Simbarashe+Tembo+.A." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Legacy-MD;Multi+Device+Whatsapp+Bot;Coded+By+Simbarashe+Tembo[...]
   </a> 
 </div> 
 
@@ -126,8 +126,7 @@ You can investigate platforms such as:
 
 # Official websites:
 
-[![Railway](https://img.shields.io/badge/Railway%-339933?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/)
-
+[![Railway](https://img.shields.io/badge/Railway-339933?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/)
 
 <div align="center">
 
@@ -144,7 +143,6 @@ You can investigate platforms such as:
   <img src="https://img.shields.io/badge/render-green?style=for-the-badge&logo=server&logoColor=black" alt="- Deploy On Render"/>
 </a>
 </div>
-
 
 Before choosing a platform, check its current pricing, free-tier restrictions, persistent-storage support, and policies concerning long-running applications.
 
@@ -187,7 +185,7 @@ For developers setting up the project manually:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/sat-limited-org/Legacy-MD.git
+git clone https://github.com/SAT-Limited-Organization/Legacy-MD.git
 ```
 
 2. Enter the project directory
@@ -216,7 +214,7 @@ Use the start command defined in the project's "package.json". For example, if t
 npm start
 ```
 
-Note: These are general Node.js setup instructions. Verify the repository's actual directory structure, dependencies, entry point, and start script before using them. The pairing process and application startup may require additional steps.
+Note: These are general Node.js setup instructions. Verify the repository's actual directory structure, dependencies, entry point, and start script before using them. The pairing process and application setup may vary depending on the version of Legacy MD you are deploying.
 
 ---
 
@@ -274,9 +272,7 @@ Maintained by: SAT Limited Team
 
 Legacy MD is part of the SAT Limited development ecosystem.
 
-Projects such as Knight Bot Mini and Lunr Mini are acknowledged as sources of inspiration within the bot-development journey. Any specific code reuse, licensing obligations, or third-party attributions should be documented according to the actual source code and the original projects' licences.
-
-
+Projects such as Knight Bot Mini and Lunr Mini are acknowledged as sources of inspiration within the bot-development journey. Any specific code reuse, licensing obligations, or third-party attribution required by those projects should be reviewed separately by the maintainers.
 
 ---
 
@@ -301,9 +297,9 @@ SAT Limited
 
 Email: sat.limited.2026@gmail.com
 
-YouTube: "@SimbarasheMC" 
+YouTube: "@SimbarasheMC"
 
-[![SAT Limited](https://img.shields.io/badge/YT%20SAT-Limited%red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@satlimited?si=4rkXgaFizd1LvHWE)
+[![SAT Limited](https://img.shields.io/badge/YouTube-SAT%20Limited-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@satlimited?si=4rkXgaFizd1LvHWE)
 
 ---
 
