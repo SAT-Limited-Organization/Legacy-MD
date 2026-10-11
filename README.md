@@ -140,7 +140,7 @@ You can investigate platforms such as:
 
 <a
  href="https://render.com/" target="_blank">
-  <img src="https://img.shields.io/badge/render-green?style=for-the-badge&logo=server&logoColor=black" alt="- Deploy On Render"/>
+  <img src="https://img.shields.io/badge/Render-339933?style=for-the-badge&logo=render&logoColor=white" alt="- Deploy On Render"/>
 </a>
 </div>
 
