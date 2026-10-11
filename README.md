@@ -12,8 +12,7 @@
   </a> 
 </div> 
 
-<img
- src="../utils/bot_image.jpg">
+<img src="../utils/bot_image.jpg">
 
 </div>
 
@@ -131,17 +130,16 @@ You can investigate platforms such as:
 
 <div align="center">
 
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Deploy%20on-Katabump-orange?style=for-the-badge" alt="Deploy on Katabump">
+<a
+ href="https://render.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Render-339933?style=for-the-badge&logo=render&logoColor=white" alt="- Deploy On Render"/>
 </a>
-
 </div>
 
 <div align="center">
 
-<a
- href="https://render.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Render-339933?style=for-the-badge&logo=render&logoColor=white" alt="- Deploy On Render"/>
+<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
+  <img src="https://img.shields.io/badge/Deploy%20on-Katabump-orange?style=for-the-badge" alt="Deploy on Katabump">
 </a>
 </div>
 
