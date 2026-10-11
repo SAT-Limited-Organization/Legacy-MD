@@ -12,7 +12,8 @@
   </a> 
 </div> 
 
-<img src="./utils/bot_image.jpg">
+<img
+ src="../utils/bot_image.jpg">
 
 </div>
 
