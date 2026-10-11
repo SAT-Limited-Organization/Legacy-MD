@@ -128,14 +128,19 @@ You can investigate platforms such as:
 
 [![Railway](https://img.shields.io/badge/Railway%-339933?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/)
 
+
 <div align="center">
+
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="- Katabump"/>
+  <img src="https://img.shields.io/badge/Deploy%20on-Katabump-orange?style=for-the-badge" alt="Deploy on Katabump">
 </a>
+
 </div>
 
 <div align="center">
-<a href="https://render.com/" target="_blank">
+
+<a
+ href="https://render.com/" target="_blank">
   <img src="https://img.shields.io/badge/render-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="- Render"/>
 </a>
 </div>
