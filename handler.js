@@ -124,8 +124,22 @@ const getGroupMetadata = getCachedGroupMetadata;
 // Helper functions
 const isOwner = (sender) => {
   if (!sender) return false;
-  
-  // Sudo checker
+
+  const normalizedSender = normalizeJidWithLid(sender);
+  const senderNumber = normalizeJid(normalizedSender);
+
+  return config.ownerNumber.some(owner => {
+    const normalizedOwner = normalizeJidWithLid(
+      owner.includes('@')
+        ? owner
+        : `${owner}@s.whatsapp.net`
+    );
+
+    const ownerNumber = normalizeJid(normalizedOwner);
+    return ownerNumber === senderNumber;
+  });
+};
+
 const isSudo = (sender) => {
   if (!sender) return false;
 
@@ -134,18 +148,23 @@ const isSudo = (sender) => {
 
   return config.sudoNumbers.some(sudo => {
     const normalizedSudo = normalizeJidWithLid(
-      sudo.includes('@') ? sudo : `${sudo}@s.whatsapp.net`
+      sudo.includes('@')
+        ? sudo
+        : `${sudo}@s.whatsapp.net`
     );
+
     const sudoNumber = normalizeJid(normalizedSudo);
     return sudoNumber === senderNumber;
   });
 };
 
 const isMod = (sender) => {
+  if (!sender) return false;
+
   const number = sender.split('@')[0];
   return database.isModerator(number);
 };
-  
+
   // Normalize sender JID to handle LID
   const normalizedSender = normalizeJidWithLid(sender);
   const senderNumber = normalizeJid(normalizedSender);
